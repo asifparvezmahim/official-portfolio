@@ -44,3 +44,38 @@
     border: 5px solid aqua;
 
 }
+
+.introduction {
+    background-color: lightblue;
+    padding-bottom: 2%;
+
+}
+
+#intro {
+    text-align: center;
+    font-size: 40px;
+}
+
+#web-dev {
+    text-align: center;
+    font-size: 30px;
+}
+
+#info {
+    text-align: center;
+    font-size: 25px;
+}
+
+.link-button-two {
+    text-decoration: none;
+    font-size: 30px;
+    border: 5px solid tomato;
+    border-radius: 10px;
+    background-color: tomato;
+    padding-left: 1%;
+    padding-right: 1%;
+
+    margin-left: 35%;
+    margin-top: 5%;
+
+}
